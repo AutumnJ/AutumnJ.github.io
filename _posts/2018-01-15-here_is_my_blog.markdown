@@ -1,5 +1,4 @@
 ---
-layout: post
 title:      "Here is my blog"
 date:       2018-01-15 23:04:59 +0000
 permalink:  here_is_my_blog
