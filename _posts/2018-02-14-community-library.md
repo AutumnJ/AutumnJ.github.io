@@ -24,3 +24,7 @@ After building out various routes and views to power the functionality I envisio
 3. Search functionality: Users can search their own books by author, title, genre, etc. This requires new controller routes and views, but would otherwise be easy to implement. 
 
 Please check out the community library on [GitHub](https://github.com/AutumnJ/AutumnJ-community-library). 
+
+And spare a moment to admire my favorite coding cat: 
+
+![alt text](/assets/images/IMG_5513.JPG "Meow!")
