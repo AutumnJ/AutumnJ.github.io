@@ -1,6 +1,7 @@
 ---
 
  title: Community Library
+ date: 2018-02-14
   header:
   teaser: "/assets/images/IMG_5513.JPG"
 
