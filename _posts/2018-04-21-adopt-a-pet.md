@@ -16,7 +16,7 @@ The next challenge was incorporating Redux's state management on the front end. 
 
 My first React container/component implementation was a pretty brute force solution. Once things were working, I found almost endless areas to improve upon, and spent a significant amount of time refactoring for readability and brevity, making my components usable by more container elements, and adding some [style](https://react-bootstrap.github.io/)!
 
-And on that note, I'm off to refactor some more! Check out the latest iteration of Adopt-a-Pet on [GitHub](https://github.com/AutumnJ/adopt-a-pet-game). And/or watch take a peek at the adorable animals up for adoption in my walkthrough!
+And on that note, I'm off to refactor some more! Check out the latest iteration of Adopt-a-Pet on [GitHub](https://github.com/AutumnJ/adopt-a-pet-game). And/or take a peek at the adorable animals up for adoption in my walkthrough!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rumehkzhJaY" frameborder="0" allowfullscreen></iframe>
 <br/>
