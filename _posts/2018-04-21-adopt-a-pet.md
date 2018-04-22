@@ -1,8 +1,10 @@
 ---
 
- title: Community Library - jQuery + Rails
+ title: Adopt-a-Pet
 
 ---
+
+# Gamified Adoptable Pet Browser
 
 
 
