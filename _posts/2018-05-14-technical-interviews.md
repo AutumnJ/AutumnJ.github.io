@@ -1,8 +1,8 @@
 ---
 
  title: Tackling Technical Interview Problems
-  header:
-    teaser: "/assets/images/IMG_6234.JPG"
+ header:
+  teaser: "/assets/images/IMG_6234.JPG"
 
 ---
 
