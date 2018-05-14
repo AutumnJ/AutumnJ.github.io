@@ -32,8 +32,6 @@ During my first Pramp interview, I received a [spiral matrix problem](https://ww
 
 I'll admit, I did not make it to item nine in my attempt to solve the spiral matrix problem. But my brute force solution was *almost* working by the time the interview ended. And I finished the remaining steps on my own, post-interview. While I could have written a blog post to walk through my solution, *how* I solved it seems far more important, as that is the paradigm I will reuse in future interviews. 
 
-
-If only the coding problem was as exciting as the movie.
 <iframe src="https://giphy.com/embed/zXmbOaTpbY6mA" width="480" height="203" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/technoir-movie-film-cinemagraph-zXmbOaTpbY6mA"></a></p>
 
 Ah, to live a life where big O notation is wholly insignificant...
