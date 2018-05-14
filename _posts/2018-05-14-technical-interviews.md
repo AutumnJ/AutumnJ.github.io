@@ -34,5 +34,5 @@ I'll admit, I did not make it to item nine in my attempt to solve the spiral mat
 
 <iframe src="https://giphy.com/embed/zXmbOaTpbY6mA" width="480" height="203" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/technoir-movie-film-cinemagraph-zXmbOaTpbY6mA"></a></p>
 
-Ah, to live a life where big O notation is wholly insignificant...
+<sup>Ah, to live a life where big O notation is wholly insignificant...<sup>
 ![alt text](/assets/images/IMG_6234.JPG "Meow!")
