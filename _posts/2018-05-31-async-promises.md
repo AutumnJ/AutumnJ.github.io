@@ -18,7 +18,7 @@ A [`Promise`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/
 
 `new Promise( /* executor */ function(resolve, reject) { ... } );`
 
-The `executor` function is executed immediately, and usually initiates the asynchronous operation. It takes the `resolve` and `reject` functions as arguments because, upon completion of that asynchronous operation, it calls `resolve` or `reject` to change the state of the `Promise`. If the `Promise` is resolved, it is considered fulfilled and a value can be returned. If the `Promise` is rejected, and error can be thrown.
+The `executor` function is executed immediately, and usually initiates the asynchronous operation. It takes the `resolve` and `reject` functions as arguments because, upon completion of that asynchronous operation, it calls `resolve` or `reject` to change the state of the `Promise`. If the `Promise` is resolved, it is considered fulfilled and a value can be returned. If the `Promise` is rejected, an error can be thrown.
 
 A promise chain can be created by chaining [`.then()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/then) to a returned `Promise`, allowing the return value of a fulfilled `Promise` to be passed into subsequent functions. In this chain, [`.catch()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/catch) "catches" errors thrown by a rejected `Promise`. Using React and Redux, with [thunk middleware](https://github.com/reduxjs/redux-thunk), this pattern could be implemented within an action creator as follows: 
 
