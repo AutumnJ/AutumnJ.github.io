@@ -47,7 +47,7 @@ export const fetchCats = () => {
       .then(function() {
         dispatch(playGame())
       })
-      .catch(error => window.alert("Not enough kitties - try a different zip code!"));
+      .catch(error => window.alert("Not enough kitties!"));
   };
 };
 ```
