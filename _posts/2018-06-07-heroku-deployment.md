@@ -24,4 +24,4 @@ After this, I used the `heroku config` command in the CLI to see my application'
 
 And then, I celebrated my success by sending self-destructing messages to all my friends! Including this one...she hasn't read it yet....
 
-![alt text](/assets/images/IMG_0469.JPG "Meow!")
+![alt text](/assets/images/IMG_0469.JPEG "Meow!")
