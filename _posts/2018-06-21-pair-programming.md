@@ -20,8 +20,8 @@ The company also focused on Test Driven Development (TDD), which actually made w
 
 Throughout the interview, the largest hurdle was identifying elements to refactor, in part because I was less familiar with the language. I could have done a better job of asking clarifying questions to clear up those grey areas more quickly. But after the first pass at refactoring, I became more familiar with identifying elements that were repetitive or could easily break and were good candidates for refactoring. 
 
-From that experience, I walked away with the belief that the XP methodology does foster [communication, simplicity, feedback, respect, and courage](http://www.extremeprogramming.org/). And, even if I don't work in a company that adheres to that methodology, I hope to find on that values those components. 
+From that experience, I walked away with the belief that the XP methodology does foster [communication, simplicity, feedback, respect, and courage](http://www.extremeprogramming.org/). And, even if I don't work in a company that adheres to that methodology, I hope to find one that also values those!
 
 
-<sup>In other exciting news, a new kitten has joined the (extended) family<sup>
+<sup>In other exciting news, a new kitten has joined the (extended) family!!:heart:<sup>
 ![alt text](/assets/images/IMG_6723.JPG "Meow!")
