@@ -8,7 +8,7 @@
 
 # What's next?!
 
-One of my [first](https://autumnj.github.io//code-beginnings/) blog posts had the heading "Ruby, JavaScript, and all the languages to come..." And I'm starting to encounter the latter part! As I've interviewed with different companies, who work with languages or frameworks I'm unfamiliar with, I've worked to familiarize myself with their stack on a syntactical and conceptual level. Partly because it's always enjoyable to explore new languages, but also because it shows that I do know how to acclimate to a new stack on some level. And as I've explored new languages, I've started to develop a routine for my exploration. 
+One of my [first](https://autumnj.github.io//code-beginnings/) blog posts had the heading "Ruby, JavaScript, and all the languages to come..." And I'm starting to encounter the latter part! As I've interviewed with companies who use languages or frameworks I'm unfamiliar with, I've worked to familiarize myself with their stack on a syntactical and conceptual level. Partly because it's always enjoyable to explore new languages, but also because it shows that I do know how to acclimate to a new stack on some level. And as I've explored new languages, I've started to develop a routine for my exploration. 
 
 First, I install anything I would need to successfully run programs in that language. Then I explore the file structure of programs or apps created in that language. In my exploration, I'm checking to see how variables are declared and assigned, how classes are created and objects instantiated (for object-oriented languages), and checking for any unusual syntax or patterns which immediately jump out at me. 
 
