@@ -18,7 +18,7 @@ Once the high-level syntactical overview is complete, I dive into exploring any 
 
 The final stage is practice. If I know someone who is familiar with the language, I try to pick their brain a bit as I start writing code post-research. This allows me to double check that I'm adhering to the language's best practices. Otherwise, coding along with a tutorial or other video helps me become more familiar with actually writing in the language, while also, hopefully, adhering to best practices. 
 
-While the above has proven helpful in preparing for interviews, or preparing to attend Meetups related to a technology or language I'm unfamiliar with, nothing is more useful than practice, more practice, more practice, building a project, deploying a project, and beyond for long-term growth! 
+While the above has proven helpful in preparing for interviews, or preparing to attend meetups related to a technology or language I'm unfamiliar with, nothing is more useful than practice, more practice, more practice, building a project, deploying a project, and beyond for long-term growth! 
 
 
 <sup>Per the usual, while I work, this one naps...<sup>
